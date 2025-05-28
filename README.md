@@ -1,11 +1,11 @@
-```markdown
+
 # ProjetoEventos
 
 Este é um sistema de gerenciamento de eventos desenvolvido em Java, com foco em operações de leitura e escrita de dados em arquivos. O projeto permite cadastrar, listar e gerenciar eventos e usuários.
 
-## 📁 Estrutura do Projeto
+```## 📁 Estrutura do Projeto
 
-```
+
 ProjetoEventos/
 ├── events.data                # Dados dos eventos salvos
 ├── users.data                 # Dados dos usuários salvos
@@ -21,9 +21,8 @@ ProjetoEventos/
         │   └── Usuario.java              # Representa um usuário
         └── utils/
             ├── ArquivoUtils.java         # Utilitários para manipulação de arquivos
-            ├── EventFileManager.java     # Gerenciador de arquivos de eventos
-            └── UserFileManager.java      # Gerenciador de arquivos de usuários
-```
+            ├── EventFileManager.java     # Gerenciador de arquivos de eventos ```
+
 
 ## ⚙️ Tecnologias Utilizadas
 
